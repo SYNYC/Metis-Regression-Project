@@ -17,11 +17,11 @@ There are multiple datasets I will be using from two main resources:
 ##### Resource  1 : Box Office Mojo
    - [PG-13 movies for Top Lifetime Grosses by MPAA Rating(Domestic)](https://www.boxofficemojo.com/chart/mpaa_title_lifetime_gross/?by_mpaa=PG-13)
    		- Features:
-   					* Title
-   					* Rank
-   					* Lifetime Gross
-   					* Overall Rank
-   					* Year
+   					- Title
+   					- Rank
+   					- Lifetime Gross
+   					- Overall Rank
+   					- Year
 
    - [Each movie profile page](https://www.boxofficemojo.com/title/tt2488496/?ref_=bo_cso_table_1)
    		- Features:
