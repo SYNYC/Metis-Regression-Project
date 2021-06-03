@@ -42,11 +42,6 @@ There are multiple datasets I will be using from two main resources:
 The individual unit of analysis would be each row of data as below:
 
 
-	link_stub	title	rank_pg13_movies	lifetime_gross	rank_overall	year	domestic_total_gross	budget	genres	runtime_minutes	rating	release_date
-Star Wars: Episode VII - The Force Awakens	/title/tt2488496/?ref_=bo_cso_table_1	Star Wars: Episode VII - The Force Awakens	1	$936,662,225	1	2015	936662225	245000000	[Action, Adventure, Sci-Fi]	138.0	PG-13	2015-12-16
-Avengers: Endgame	/title/tt4154796/?ref_=bo_cso_table_2	Avengers: Endgame	2	$858,373,000	2	2019	858373000	356000000	[Action, Adventure, Drama, Sci-Fi]	181.0	PG-13	2019-04-24
-Avatar	/title/tt0499549/?ref_=bo_cso_table_3	Avatar	3	$760,507,625	3	2009	760507625	237000000	[Action, Adventure, Fantasy, Sci-Fi]	162.0	PG-13	2009-12-16
-
 
 **Data columns  (total 12 columns):**
   Index |  Column |   Dtype
