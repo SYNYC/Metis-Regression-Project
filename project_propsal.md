@@ -1,5 +1,5 @@
 # Project 2 Movies   
-## Project Proposal
+# Project Proposal
 
 
 ## Question & need:
