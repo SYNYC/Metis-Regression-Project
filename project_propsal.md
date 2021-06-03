@@ -14,7 +14,7 @@ Our clients, movie futures investment firms, will benefit from this model by bei
 
 There are multiple datasets I will be using from two main resources:
 
-##### Resource  1 : Box Office Mojo
+#### Resource  1 : Box Office Mojo
    - [PG-13 movies for Top Lifetime Grosses by MPAA Rating(Domestic)](https://www.boxofficemojo.com/chart/mpaa_title_lifetime_gross/?by_mpaa=PG-13)
    		- Features:
    					* Title
@@ -31,7 +31,7 @@ There are multiple datasets I will be using from two main resources:
    					* Release Date
    					* Runtime
 
-##### Resource 2 :  IMDbPro
+#### Resource 2 :  IMDbPro
 
    - [STARmeter](https://pro.imdb.com/discover/people?profession=actor&sortOrder=STARMETER_ASC&ref_=nm_nv_ppl_tsm&pageNumber=1) : A ranking system for actors, producers and directors etc
 
