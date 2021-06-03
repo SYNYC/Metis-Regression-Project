@@ -101,4 +101,4 @@ And I will use regression evaluation metrics such as MSE, RMSE, MAE, R-squared t
 
 ## MVP Goal:
 
-✨A data visualization chart to help to identify the correlations between varaibles.✨
+✨A data visualization chart to help to identify the correlations between variables.✨
