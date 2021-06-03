@@ -40,7 +40,7 @@ There are multiple datasets I will be using from two main resources:
 The individual unit of analysis would be each row of data as below:
 
 
-<img src="hhttps://github.com/SYNYC/2_Project_Movies/blob/main/charts/df%20head.png">
+<img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/df%20head.png">
 
 
 
