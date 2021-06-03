@@ -4,9 +4,9 @@
 
 ## Question & need:
 
-The purpose of the model I plan to build is to determine which movies will yield the highest box office and profit, and thus result in the highest return for movie futures.   
+The purpose of the model I plan to build is to determine which movies will realize the highest gross and profit, and thus result in the highest return for movie futures.   
 
-Our clients, movie futures investment firms, will benefit from this model by being able to predict which movies will have the high domestic gross and profit, and potentially invest in those movies futures to yield the high return.
+Our clients, movie futures investment firms, will benefit from this model by being able to predict which movies will have the high domestic gross and profit, and potentially invest in those movies futures to yield a high return.
 
 
 ## Data Description:
