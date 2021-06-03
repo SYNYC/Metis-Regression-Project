@@ -90,7 +90,7 @@ The individual unit of analysis would be each row of data as below:
     * import statsmodels.api as sm
     * from sklearn.linear_model import LinearRegression, Ridge
     * from sklearn.preprocessing import StandardScaler, PolynomialFeatures
-- train_test_split
+- Train test split
 	* from sklearn.model_selection import train_test_split
 - Cross Validations
 	* from sklearn.model_selection import cross_val_score
