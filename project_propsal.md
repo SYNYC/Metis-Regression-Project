@@ -33,9 +33,7 @@ There are multiple datasets I will be using from two main resources:
 
 ##### Resource 2 :  IMDbPro
 
-   - [STARmeter](https://pro.imdb.com/discover/people?profession=actor&sortOrder=STARMETER_ASC&ref_=nm_nv_ppl_tsm&pageNumber=1)
-
-   - A ranking system for actors, producers and directors etc
+   - [STARmeter](https://pro.imdb.com/discover/people?profession=actor&sortOrder=STARMETER_ASC&ref_=nm_nv_ppl_tsm&pageNumber=1) : A ranking system for actors, producers and directors etc
 
 
 
