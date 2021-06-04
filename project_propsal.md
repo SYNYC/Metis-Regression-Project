@@ -89,7 +89,7 @@ The individual unit of analysis would be each row of data as below:
 - heatmap
     * import seaborn as sns
 
-##### Regression models & Cross Validations
+##### Regression models & Validations
 - Linear Regression
     * import statsmodels.api as sm
     * from sklearn.linear_model import LinearRegression, Ridge
@@ -100,7 +100,7 @@ The individual unit of analysis would be each row of data as below:
 	* from sklearn.model_selection import cross_val_score
 
 
-And I will use regression evaluation metrics such as MSE, RMSE, MAE, R-squared to test out models to avoid overfitting/underfitting.
+I will use regression evaluation metrics such as MSE, RMSE, MAE, R-squared to test out models, also using validation framework for model selections to avoid overfitting/underfitting.
 
 
 ## MVP Goal:
