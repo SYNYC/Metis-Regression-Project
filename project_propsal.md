@@ -4,9 +4,9 @@
 
 ## Question & need:
 
-### Given movies that are being made, which movies should I invest in?
+### Given movies that are being made and released for one week, which movies should I invest in?
 
-The purpose of the model I plan to build is to determine which movies will realize the highest gross and profit, and thus result in the highest return for movie futures.   
+The purpose of the model I plan to build is to determine which one-week old movies will realize the highest lifetime domestic gross, and thus result in the highest return for movie futures.   
 
 Our clients, movie futures investment firms, will benefit from this model by being able to predict which movies will have the high domestic gross and profit, and potentially invest in those movies futures to yield a high return.
 
