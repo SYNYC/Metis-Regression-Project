@@ -4,7 +4,7 @@
 
 ## Question & need:
 
-### Can I predict the profitability of movies that are about to be released?
+### Given movies that are being made, which movies should I invest in?
 
 The purpose of the model I plan to build is to determine which movies will realize the highest gross and profit, and thus result in the highest return for movie futures.   
 
