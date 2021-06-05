@@ -19,6 +19,16 @@ There are multiple datasets I will be using from two main resources:
 #### Resource  1 : Box Office Mojo
    - [Top Lifetime Grosses by MPAA Rating(Domestic)](https://www.boxofficemojo.com/chart/top_lifetime_gross/?ref_=bo_cso_ac)
    		- Features:
+   		-    					
+   					* Distributor
+   					* Budget       
+   					* Release Date
+   					* MPAA Rating
+   					* Runtime
+   					* Genres
+   					* Cast & Crew
+   					* Domestic Opening Gross
+                                       
    					* Title
    					* Rank
    					* Lifetime Gross
@@ -41,7 +51,7 @@ There are multiple datasets I will be using from two main resources:
 
 #### Resource 2 :  IMDbPro
 
-   - [STARmeter](https://pro.imdb.com/discover/people?profession=actor&sortOrder=STARMETER_ASC&ref_=nm_nv_ppl_tsm&pageNumber=1) : A reference from this ranking system for actors, producers and directors etc
+   - [STARmeter](https://pro.imdb.com/discover/people?profession=actor&sortOrder=STARMETER_ASC&ref_=nm_nv_ppl_tsm&pageNumber=1) : A reference ranking system for actors, producers and directors etc
 
 
 
