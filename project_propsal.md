@@ -19,16 +19,8 @@ There are multiple datasets I will be using from two main resources:
 #### Resource  1 : Box Office Mojo
    - [Top Lifetime Grosses by MPAA Rating(Domestic)](https://www.boxofficemojo.com/chart/top_lifetime_gross/?ref_=bo_cso_ac)
    		- Features:
-   		-    					
-   					* Distributor
-   					* Budget       
-   					* Release Date
-   					* MPAA Rating
-   					* Runtime
-   					* Genres
-   					* Cast & Crew
-   					* Domestic Opening Gross
-                                       
+
+                                      
    					* Title
    					* Rank
    					* Lifetime Gross
