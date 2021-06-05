@@ -33,8 +33,8 @@ There are multiple datasets I will be using from two main resources:
    					* MPAA Rating
    					* Runtime
    					* Genres
-                                        * Cast & Crew
-                                        * Domestic Opening Gross
+   					* Cast & Crew
+   					* Domestic Opening Gross
                                        
 
 
