@@ -28,7 +28,7 @@ There are multiple datasets I will be using from two main resources:
    		- Features:
    					
    					* Distributor
-   					* Budget       _(Profit = Gross - Budget)_
+   					* Budget       
    					* Release Date
    					* MPAA Rating
    					* Runtime
