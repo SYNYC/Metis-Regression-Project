@@ -10,10 +10,9 @@ The follwing data visualization charts show the relationship between
 and 
  - numberic features as _rank_, _year_, _budget_, _runtime_minutes_.
 
-
+### Heatmap:
 <img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/movies_num_heatmap.png" width = "450" height = "450">
 
-### Heatmap:
 
   1.  Features with positive correaltion:  _year_, _budget_, _runtime_minutes_.
   2.  Features with negative correaltion: _rank_.
@@ -22,9 +21,10 @@ and
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/movies_num_pairplot.png" width = "600" height = "600">
+
 
 ### Pairplot:
+<img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/movies_num_pairplot.png" width = "600" height = "600">
 
   1. _lifetime_gross_ is a right-skewed distribution. 
   2. _lifetime_gross_ v.s. _rank_ : Top rank movies indicates more gross, so we can see the outstanding points are on the lift top corner, then the curves bend around after rank 100 or so and slowly comes down to the right bottom.
