@@ -6,9 +6,8 @@
 
 The follwing data visualization charts show the relationship between
 
- - target _lifetime_gross_ 
-and 
- - numberic features as _rank_, _year_, _budget_, _runtime_minutes_.
+ - **target** :  _lifetime_gross_ 
+ - **numberic features** : _rank_, _year_, _budget_, _runtime_minutes_.
 
 ### Heatmap:
 <img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/movies_num_heatmap.png" width = "450" height = "450">
