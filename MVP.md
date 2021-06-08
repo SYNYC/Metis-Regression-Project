@@ -22,7 +22,7 @@ and
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/movies_num_pairplot.png" width = "600" height = "305">
+<img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/movies_num_pairplot.png" width = "600" height = "600">
 
 ### Pairplot:
 
