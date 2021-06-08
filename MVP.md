@@ -11,7 +11,7 @@ and
  - numberic features as _rank_, _year_, _budget_, _runtime_minutes_.
 
 
-<img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/movies_num_heatmap.png" width = "450" height = "305">
+<img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/movies_num_heatmap.png" width = "450" height = "450">
 
 ### Heatmap:
 
