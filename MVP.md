@@ -48,7 +48,7 @@ The follwing data visualization charts show the relationship between
   
  2. OLS summary table: 
    
- <img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/movies_num_ols_summary.png">
+ <img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/movies_num_ols.png">
  
  3. coef matrix : [-2.02806949e+05 -4.89324741e+04  2.58974262e-01  4.24933926e+05]
  4. * rmse: 59480872.89841622
