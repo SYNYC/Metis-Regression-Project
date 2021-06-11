@@ -14,9 +14,9 @@ Our clients, movie futures investment firms, will benefit from this model by bei
 ## Data Description:
 
 
-There are multiple datasets I will be using from two main resources:
+There is the dataset I will be using from the main resource pages:
 
-#### Resource  1 : Box Office Mojo
+#### Resource   : Box Office Mojo
    - [Top Lifetime Grosses by MPAA Rating(Domestic)](https://www.boxofficemojo.com/chart/top_lifetime_gross/?ref_=bo_cso_ac)
    		- Features:
 
@@ -38,19 +38,6 @@ There are multiple datasets I will be using from two main resources:
    					* Cast & Crew
    					* Domestic Opening Gross
                                        
-
-
-
-#### Resource 2 :  IMDbPro
-
-   - [STARmeter](https://pro.imdb.com/discover/people?profession=actor&sortOrder=STARMETER_ASC&ref_=nm_nv_ppl_tsm&pageNumber=1) : A reference ranking system for actors, producers and directors etc
-
-
-
-The individual unit of analysis would be each row of data as below:
-
-
-<img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/df%20head.png">
 
 
 
