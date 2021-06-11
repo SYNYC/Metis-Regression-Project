@@ -70,7 +70,22 @@ The results showed that LassoCV was the best model based on my exploration of mo
 
 
 
+### OLS
+<img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/ols.png" >
 
+### Actual vs Predicted Gross
+#### Ridge CV
+<img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/ridge.png" >
+
+#### Lasso CV
+<img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/LassoCV_log.png" >
+
+### Diagnostic_Plots
+#### Ridge CV 
+<img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/Diagnostic_Plots_Ridge.png" >
+
+#### Lasso CV
+<img src="https://github.com/SYNYC/2_Project_Movies/blob/main/charts/Diagnostic_Plots_Laao.png" >
 
 
 
