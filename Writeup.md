@@ -10,7 +10,7 @@ The purpose of the model I plan to build is to determine which movies will reali
 
 
 ## Design
-The project’s goal is to help the WTWY optimize the effectiveness of their street team in soliciting tech professionals to attend the gala and spread awareness. The turnstile data provided by the MTA was analyzed by foot traffic, identifying the top stations. From this station list, the next layer of analysis was establishing where the major technology companies were concentrated in the city. These two factors together would maximize the number of tech professionals that the street teams would come across. 
+---------------- UPDATE SOON ---------------------------------------------
   
 
 ## Data
