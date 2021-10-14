@@ -1,4 +1,4 @@
-# Project 2 Movies   
+# Regression : Movie Gross Prediction
 # Project Proposal
 
 
