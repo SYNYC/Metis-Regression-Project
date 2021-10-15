@@ -10,7 +10,7 @@ The purpose of the model I plan to build is to determine which movies will reali
 
 
 ## Design
----------------- UPDATE SOON ---------------------------------------------
+The project’s goal is to help movie investment firms determine which movies will result in a high lifetime domestic gross. Movies have many features that may impact their success including a budget, release date, cast and crews, and various others. As well, movies with a series can span many years and include multiple continuations and accumulated awareness, resulting in even further success for movies. In order to analyze these features, it is first prudent to choose the most transparent resource, which in this case was Box Office Mojo. First, web scrapping is critical to draw data effectively and efficiently. Once data is collected, the next step EDA involved applying pairplot and heatmap to draw insights from the data. Afterward, it involves using sklearn Linear Regression, Ridge, and Lasso Models to compare model evaluations based on the result of R-square and Mean Absolute Error.
   
 
 ## Data
